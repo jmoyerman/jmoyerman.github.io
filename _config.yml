@@ -1,0 +1,11 @@
+# Site settings
+title: Josh's Totally Cool Website!
+email: j.moyerman@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My totally awesome site. Thanks for visitng!
+baseurl: "" # the subpath of your site, e.g. /blog/
+twitter_username: JMoyerman
+github_username:  jmoyerman
+
+# Build settings
+markdown: kramdown
