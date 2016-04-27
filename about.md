@@ -1,11 +1,12 @@
 ---
-layout: page
+layout: page 
 title: About
-permalink: /about/
+
 ---
+About
+====
+This is my blog about all of the technical stuff I am into.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+TODO: Content
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This site uses the [jekyll-clean-dark theme](https://github.com/streetturtle/jekyll-clean-dark).
